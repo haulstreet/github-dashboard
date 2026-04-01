@@ -63,22 +63,6 @@ The app opens automatically at `http://localhost:8501`.
 
 ---
 
-## ☁️ Deploy to Streamlit Cloud (Free)
-
-> Get a live public URL in under 5 minutes — no server required.
-
-1. **Push this repo to GitHub** (make sure it's public).
-2. Go to **[share.streamlit.io](https://share.streamlit.io)** and sign in with GitHub.
-3. Click **"New app"** → select your repo → set the main file path to `app.py`.
-4. Click **"Deploy"** — done! 🎉
-
-Your app will be live at:
-```
-https://YOUR_USERNAME-github-dashboard-app-XXXX.streamlit.app
-```
-
-Add this link to your GitHub profile README and portfolio.
-
 ---
 
 ## 🔑 GitHub Token (Optional but Recommended)
