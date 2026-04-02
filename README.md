@@ -1,5 +1,7 @@
 # 🔬 GitHub Repo Health Dashboard
 
+Check it out here! -> https://apppydashboard.streamlit.app/
+
 A Streamlit web app that analyses any public GitHub profile and scores every repository by engagement — giving you an instant, data-driven view of a developer's portfolio.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
